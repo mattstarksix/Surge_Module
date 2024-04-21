@@ -1,0 +1,5 @@
+#!name=直连 Magpie 域名
+#!desc=为Magpie域名强制直连
+
+[Rule]
+DOMAIN-SUFFIX,magpie,DIRECT
