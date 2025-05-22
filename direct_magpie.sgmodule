@@ -1,5 +1,5 @@
-#!name=直连 Magpie 域名
-#!desc=为包含Magpie关键字的域名强制直连
+#!name=Direct Access for Specific Domain
+#!desc=Allow direct access to 4.v4v223789.kmfjnwr1.223789.xyz
 
 [Rule]
-DOMAIN-KEYWORD,magpie,DIRECT
+DOMAIN,4.v4v223789.kmfjnwr1.223789.xyz,DIRECT
