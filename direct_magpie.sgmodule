@@ -1,6 +1,6 @@
-#!name=Direct Access for Specific Domains
-#!desc=Allow direct access to specified domains
+#!name=Direct for 223789.xyz
+#!desc=Direct all subdomains of 223789.xyz + cdn3.jiedaibao.gs
 
 [Rule]
-DOMAIN,4.emzkdqdhcb7s.hxc6ursnvyk1.223789.xyz,DIRECT
 DOMAIN,cdn3.jiedaibao.gs,DIRECT
+DOMAIN-SUFFIX,223789.xyz,DIRECT
