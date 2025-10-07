@@ -1,5 +1,6 @@
-#!name=Direct Access for Specific Domain
-#!desc=Allow direct access to 4.v4v223789.kmfjnwr1.223789.xyz
+#!name=Direct Access for Specific Domains
+#!desc=Allow direct access to specified domains
 
 [Rule]
-DOMAIN,4.v4v223789.kmfjnwr1.223789.xyz,DIRECT
+DOMAIN,4.emzkdqdhcb7s.hxc6ursnvyk1.223789.xyz,DIRECT
+DOMAIN,cdn3.jiedaibao.gs,DIRECT
