@@ -1,7 +1,0 @@
-#!name=Direct for 223789.xyz
-#!desc=Direct all subdomains of 223789.xyz + cdn3.jiedaibao.gs + b.sexemby.com
-
-[Rule]
-DOMAIN,b.sexemby.com,DIRECT
-DOMAIN,cdn3.jiedaibao.gs,DIRECT
-DOMAIN-SUFFIX,223789.xyz,DIRECT

@@ -1,0 +1,9 @@
+#!name=Direct_emby
+#!desc=Direct all subdomains of 223789.xyz + cdn3.jiedaibao.gs + a/b/c.sexemby.com
+
+[Rule]
+DOMAIN,a.sexemby.com,DIRECT
+DOMAIN,b.sexemby.com,DIRECT
+DOMAIN,c.sexemby.com,DIRECT
+DOMAIN,cdn3.jiedaibao.gs,DIRECT
+DOMAIN-SUFFIX,223789.xyz,DIRECT
